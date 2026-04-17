@@ -1,4 +1,4 @@
-### De Morgan's Law 2. 
+### De Morgan's Law 2
 
 Second law is a bit harder to comprehend than first law since the visualisations of it do not explain it thoroughly. The real idea behind second law is that if an element does not belong to EITHER event A OR event B it does not belong to BOTH element A AND element B. 
 
